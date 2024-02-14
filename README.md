@@ -1,4 +1,4 @@
-# Carr price prediction with linear regression
+# Car price prediction with linear regression
 
 ## Problem Statement
 
